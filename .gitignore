@@ -1,0 +1,19 @@
+# Игнорируем конфигурационные файлы с токенами
+config.py
+.env
+
+# Python кэш
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Виртуальное окружение
+venv/
+env/
+ENV/
+
+# IDE файлы
+.idea/
+.vscode/
+*.swp
+*.swo 
