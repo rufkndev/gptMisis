@@ -189,3 +189,5 @@ if __name__ == "__main__":
     print("Бот запущен!")
     # Запускаем бота
     bot.polling(none_stop=True) 
+    
+    # ваня лох
